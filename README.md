@@ -24,7 +24,7 @@ def circulate():
     n=int(input())
     cir=num1[n:]+num1[:n]
     print("After circulating the values are:",cir)
-    ~~~
+~~~
 
 ## Output:![output](https://github.com/ragulmani936/Circulate-the-values-of-N-variables/blob/main/Screenshot%20(13).png?raw=true)
 
